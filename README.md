@@ -1,1 +1,9 @@
-# comamzjesc
+Nie każdy dzień układa się tak jakbyśmy chcieli. Bywają dni, gdy nie wiadomo w co ręce włożyć. Łatwo zapomnieć o posiłku. Gdy głód dopada nagle, sięgamy po cokolwiek byleby go tylko załagodzić. Chcę rozwiązać ten problem.
+
+#Gdy jesz co popadnie...
+Wielu z nas ma złe nawyki żywieniowe. Na szczęście coraz więcej osób zyskuje świadomość w tej tematyce i próbuje wdrożyć istotne zmiany w swoim życiu. Niestety nie jest to łatwe, przychodzi z czasem. Najgorsze jest jednak, kiedy zdrowo chcemy się odżywiać, a nie możemy. Wpadamy do sklepu po szybki posiłek. Chcemy załagodzić swój głód jak najszybciej. Nie mamy czasu się zastanowić, dlatego wybieramy to, co wybieraliśmy w tych sytuacjach do tej pory: chipsy, batonik, paluszki, czekolada. Ma to też swoje uzasadnienie - cukier czy tłuszcze szybko "gaszą" nasz głód, choć jest to tylko mylne wrażenie.
+
+Mam z tym problem ja, ma moja Narzeczona. Mają ten problem moi znajomi. Myślę, że poza ich kręgiem inni ludzie również zmagają się z takim problemem. Błędne nawyki żywieniowe wyrabiane przez lata, krzykliwe reklamy niezdrowych produktów oraz ich położenie w takich, a nie innych miejscach (np. przy kasach) powodują, że wielu sięga po produkty, które wcale nie zaspakajają potrzeb ich organizmu. Można odnieść takie wrażenie po szybkiej szamie, ale niedobory odpowiednich składników odżywczych nadal są. Problem wróci zatem prędzej czy później :)
+
+#Ta aplikacja Ci pomoże
+Rozwiązaniem tego problemu ma być w założeniu moja aplikacja *Co Mam Zjeść?* którą postanowiłem stworzyć w ramach konkursu *Daj się poznać 2017*. Założenia są bardzo proste. Na początkowym ekranie wybierzesz, na co masz ochotę - chipsy, frytki, czekolada? Po wybraniu odpowiedniej opcji dowiesz się, czego naprawdę potrzebujesz (np. magnez) i jakim innym produktem możesz ten niedobór zaspokoić.
